@@ -1,5 +1,8 @@
 Django OAuth Toolkit
 ====================
+.. image:: https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg
+     :target: https://lawrencemcdaniel.com
+     :alt: Hack.d Lawrence McDaniel
 
 Querium Corp Notes: This forked version is specific to Querium's Open edX upgrade from Hawthorn to Juniper.
 We modified the migrations in oauth2_provider to account for two migrations that otherwise get skipped during the upgrade due to 
