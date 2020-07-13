@@ -1,3 +1,6 @@
+#mcdaniel: querium ignores:
+.vscode/*
+
 *.py[cod]
 
 *.swp

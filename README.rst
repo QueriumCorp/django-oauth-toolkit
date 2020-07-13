@@ -1,6 +1,10 @@
 Django OAuth Toolkit
 ====================
 
+Querium Corp Notes: This forked version is specific to Querium's Open edX upgrade from Hawthorn to Juniper.
+We modified the migrations in oauth2_provider to account for two migrations that otherwise get skipped during the upgrade due to 
+Jazzband having squashed all of their legacy migrations as part of their Python3 upgrade in 2018.
+
 .. image:: https://jazzband.co/static/img/badge.svg
    :target: https://jazzband.co/
    :alt: Jazzband
